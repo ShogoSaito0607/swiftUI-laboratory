@@ -28,11 +28,8 @@ DerivedData/
 ## Gcc Patch
 /*.gcno
 
-## proto
-bitface/Proto/*
-
 # xcodegenでPackage管理
-bitpass.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
-bitpass.xcodeproj/xcshareddata/xcschemes/
+swiftUILaboratory.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+swiftUILaboratory.xcodeproj/xcshareddata/xcschemes/
 ## xcodegenで生成する
-bitpass.xcodeproj/project.pbxproj
+swiftUILaboratory.xcodeproj/project.pbxproj
